@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/souha_portfolio/static/css/main.fdb56161.css",
-    "main.js": "/souha_portfolio/static/js/main.cdc66537.js",
+    "main.js": "/souha_portfolio/static/js/main.dae4a1cd.js",
     "static/media/work4.png": "/souha_portfolio/static/media/work4.a931ff80809fa67b52ff.png",
     "static/media/work1.jpg": "/souha_portfolio/static/media/work1.82d9bdc00195a58d4f26.jpg",
     "static/media/work7.jpg": "/souha_portfolio/static/media/work7.8ba044d9e1ac79728b01.jpg",
     "static/media/work3.jpg": "/souha_portfolio/static/media/work3.0e0514a65e226027d78f.jpg",
     "static/media/work2.jpg": "/souha_portfolio/static/media/work2.4fdaeb809452e42fa290.jpg",
     "static/media/work6.jpg": "/souha_portfolio/static/media/work6.75005b7017a0b221d26a.jpg",
-    "static/media/CVSouha.pdf": "/souha_portfolio/static/media/CVSouha.db76c1117ce40c16e0ed.pdf",
+    "static/media/CVSouha.pdf": "/souha_portfolio/static/media/CVSouha.e6d6dcf71233efb13d66.pdf",
     "static/media/project-5.jpg": "/souha_portfolio/static/media/project-5.d1bdf7ba1dbc55bc08df.jpg",
     "static/media/home.jpeg": "/souha_portfolio/static/media/home.897991fee6efe7aa0def.jpeg",
     "static/media/close.svg": "/souha_portfolio/static/media/close.5bec4f69e1bbfff50fdfacd4eaff052a.svg",
     "index.html": "/souha_portfolio/index.html",
     "main.fdb56161.css.map": "/souha_portfolio/static/css/main.fdb56161.css.map",
-    "main.cdc66537.js.map": "/souha_portfolio/static/js/main.cdc66537.js.map"
+    "main.dae4a1cd.js.map": "/souha_portfolio/static/js/main.dae4a1cd.js.map"
   },
   "entrypoints": [
     "static/css/main.fdb56161.css",
-    "static/js/main.cdc66537.js"
+    "static/js/main.dae4a1cd.js"
   ]
 }
